@@ -17,15 +17,6 @@ class Solution {
             }else{
                 return false;
             }
-            
-        }
-        
-        
-        
-        if(b){
-            return true;
-        }else{
-            return false;
-        }
+        }return true;
     }
 }
